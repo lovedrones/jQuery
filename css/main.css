@@ -1,0 +1,14 @@
+* {
+  
+}
+
+body {
+    align-items: center;
+    text-align:center;
+    justify-content: center;
+}
+
+ h3 {
+    color: white;
+    background-color: black;
+}
