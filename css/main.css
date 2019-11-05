@@ -26,6 +26,18 @@ li {
     font-weight: bold;
     padding: 10px; 
 }
+#rmv {
+    position: sticky;
+    top: 200px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    background-color: red;
+    color: white;
+    width: 30px;
+    height: 20px;
+    padding-bottom:10px
+}
+
 select {
     border: solid 4px rgb(149,195,128);
     width: 270px;
@@ -35,7 +47,7 @@ select {
     font-weight: bold;
 }
 
-button{
+.addSkill{
     border: solid 4px rgb(149,195,128);
     color: rgb(149,195,128);
     height: 45px;
